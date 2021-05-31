@@ -1,0 +1,13 @@
+C:\Git\CSharp6.0_ForProgrammers_EN\CSharp6.0_ForProgrammers\CSharp6.0_ForProgrammers\bin\Debug\netcoreapp3.1\CSharp6.0_ForProgrammers.exe
+C:\Git\CSharp6.0_ForProgrammers_EN\CSharp6.0_ForProgrammers\CSharp6.0_ForProgrammers\bin\Debug\netcoreapp3.1\CSharp6.0_ForProgrammers.deps.json
+C:\Git\CSharp6.0_ForProgrammers_EN\CSharp6.0_ForProgrammers\CSharp6.0_ForProgrammers\bin\Debug\netcoreapp3.1\CSharp6.0_ForProgrammers.runtimeconfig.json
+C:\Git\CSharp6.0_ForProgrammers_EN\CSharp6.0_ForProgrammers\CSharp6.0_ForProgrammers\bin\Debug\netcoreapp3.1\CSharp6.0_ForProgrammers.runtimeconfig.dev.json
+C:\Git\CSharp6.0_ForProgrammers_EN\CSharp6.0_ForProgrammers\CSharp6.0_ForProgrammers\bin\Debug\netcoreapp3.1\CSharp6.0_ForProgrammers.dll
+C:\Git\CSharp6.0_ForProgrammers_EN\CSharp6.0_ForProgrammers\CSharp6.0_ForProgrammers\bin\Debug\netcoreapp3.1\CSharp6.0_ForProgrammers.pdb
+C:\Git\CSharp6.0_ForProgrammers_EN\CSharp6.0_ForProgrammers\CSharp6.0_ForProgrammers\obj\Debug\netcoreapp3.1\CSharp6.0_ForProgrammers.csproj.AssemblyReference.cache
+C:\Git\CSharp6.0_ForProgrammers_EN\CSharp6.0_ForProgrammers\CSharp6.0_ForProgrammers\obj\Debug\netcoreapp3.1\CSharp6.0_ForProgrammers.AssemblyInfoInputs.cache
+C:\Git\CSharp6.0_ForProgrammers_EN\CSharp6.0_ForProgrammers\CSharp6.0_ForProgrammers\obj\Debug\netcoreapp3.1\CSharp6.0_ForProgrammers.AssemblyInfo.cs
+C:\Git\CSharp6.0_ForProgrammers_EN\CSharp6.0_ForProgrammers\CSharp6.0_ForProgrammers\obj\Debug\netcoreapp3.1\CSharp6.0_ForProgrammers.csproj.CoreCompileInputs.cache
+C:\Git\CSharp6.0_ForProgrammers_EN\CSharp6.0_ForProgrammers\CSharp6.0_ForProgrammers\obj\Debug\netcoreapp3.1\CSharp6.0_ForProgrammers.dll
+C:\Git\CSharp6.0_ForProgrammers_EN\CSharp6.0_ForProgrammers\CSharp6.0_ForProgrammers\obj\Debug\netcoreapp3.1\CSharp6.0_ForProgrammers.pdb
+C:\Git\CSharp6.0_ForProgrammers_EN\CSharp6.0_ForProgrammers\CSharp6.0_ForProgrammers\obj\Debug\netcoreapp3.1\CSharp6.0_ForProgrammers.genruntimeconfig.cache
